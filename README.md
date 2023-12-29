@@ -5,3 +5,5 @@
 실습 내용 공유를 위한 Git 입니다.
 
 데이터셋 저장공간: https://drive.google.com/drive/folders/1B2MWhhEjf1HChP85n9mp8Bp-UvqdvLLA
+
+https://netflixtechblog.com/system-architectures-for-personalization-and-recommendation-e081aa94b5d8
